@@ -1,9 +1,10 @@
-### Hi there 👋
+### Hi there, I'm Amrit  👋
 
-<!--
-**amritkumar9595/amritkumar9595** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amritkumar9595)
 
-Here are some ideas to get you started:
+## I'm a Student, Research Scholar @ IIT-Madras!!
+
+<!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,10 +14,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> 
+
 ![giphy](https://user-images.githubusercontent.com/45626998/124499381-855d6980-dddb-11eb-9ac2-246630748442.gif)
 
-### Connect with me:
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v5/icons/gmail.svg" />
+### Spotify Playing 🎧
 
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/sortttlhfcsn7wspcv1u956gk)
+
+### Connect with me:
+[<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+</details>
+
+
+[linkedin]: https://linkedin.com/in/amrtikumarjethi
+[instagram]: https://www.instagram.com/am_ra8/
