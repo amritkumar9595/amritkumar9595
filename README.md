@@ -35,6 +35,7 @@
 ### Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
 
 
 
@@ -57,11 +58,13 @@
 
 <img align="left" alt="Visual Studio Code" width="104x" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />
 
+<img align="left" alt="Visual Studio Code" width="104x" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png" />
+
 
 
 <img align="left" alt="Visual Studio Code" width="44x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
-<img align="left" alt="Visual Studio Code" width="44x" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/matlab/matlab.png" />
+
 
 
 </details>
@@ -69,3 +72,4 @@
 
 [linkedin]: https://www.linkedin.com/in/amritkumarjethi/
 [instagram]: https://www.instagram.com/am_ra8/
+[facebook]: https://www.facebook.com/amrit.kumar.1044186/
