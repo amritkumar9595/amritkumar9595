@@ -47,7 +47,7 @@
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="150px" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/PyTorch_logo_black.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 
