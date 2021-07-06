@@ -1,15 +1,11 @@
 # Hi there, I'm Amrit  👋
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/amrit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amritkumar9595)
-
 <img src="https://user-images.githubusercontent.com/45626998/124499381-855d6980-dddb-11eb-9ac2-246630748442.gif" width="300" height="300" align ="right" />
-<br>
-<br>
 
-## I'm a Student, Research Scholar @ IIT-Madras!!<img src="https://icons.iconarchive.com/icons/google/noto-emoji-people-profession/1024/10206-man-student-icon.png" width="25" height="25" />
+## I'm a Student, Research Scholar @ IIT-Madras!!<img src="https://icons.iconarchive.com/icons/google/noto-emoji-people-profession/1024/10206-man-student-icon.png" width="20" height="25" />
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mri-13-1127700.png" width="30" height="30" />
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -53,11 +49,11 @@
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 
-<img align="left" alt="Visual Studio Code" width="104x" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />
+<img align="left" alt="Visual Studio Code" width="100x" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />
 
 <img align="left" alt="Visual Studio Code" width="104x" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png" />
 
