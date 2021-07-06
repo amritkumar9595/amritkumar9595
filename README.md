@@ -2,9 +2,12 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/amrit?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/amritkumar9595)
 
+<img src="https://user-images.githubusercontent.com/45626998/124499381-855d6980-dddb-11eb-9ac2-246630748442.gif" width="300" height="300" align ="right" />
+<br>
+<br>
 ## I'm a Student, Research Scholar @ IIT-Madras!!
 
-<!-- Here are some ideas to get you started:
+Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,10 +17,10 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> 
+ 
 
 <!-- ![giphy](https://user-images.githubusercontent.com/45626998/124499381-855d6980-dddb-11eb-9ac2-246630748442.gif) -->
-<img src="https://user-images.githubusercontent.com/45626998/124499381-855d6980-dddb-11eb-9ac2-246630748442.gif" width="400" height="400" align ="right" />
+<!-- <img src="https://user-images.githubusercontent.com/45626998/124499381-855d6980-dddb-11eb-9ac2-246630748442.gif" width="400" height="400" align ="right" /> -->
 
 
 
@@ -25,6 +28,7 @@
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/sortttlhfcsn7wspcv1u956gk) -->
 
+<br>
 <br>
 <br>
 
