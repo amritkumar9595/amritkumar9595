@@ -33,9 +33,10 @@
 <br>
 
 ### Connect with me:
-[<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="codeSTACKr | Instagram" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/linkedin.svg" />][linkedin]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/instagram.svg" />][instagram]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/facebook.svg" />][facebook]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/twitter.svg" />][twitter]
 
 
 
@@ -77,3 +78,4 @@
 [linkedin]: https://www.linkedin.com/in/amritkumarjethi/
 [instagram]: https://www.instagram.com/am_ra8/
 [facebook]: https://www.facebook.com/amrit.kumar.1044186/
+[twitter]: https://twitter.com/amritkumar9595
