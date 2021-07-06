@@ -29,7 +29,7 @@
 <br>
 <br>
 
-### Connect with me: :smiley:
+### Always happy to connect: :smiley:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/facebook.svg" />][facebook]
