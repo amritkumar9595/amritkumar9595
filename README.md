@@ -28,7 +28,7 @@
 <br>
 <br>
 
-### Connect with me:
+### Connect with me: :smiley:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/instagram.svg" />][instagram]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/facebook.svg" />][facebook]
@@ -43,27 +43,27 @@
 ### Languages and Tools:
 <br />
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-<img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
+<img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 
-<img align="left" alt="Visual Studio Code" width="100x" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />
+<img align="left" alt="Visual Studio Code" width="80x" src="https://upload.wikimedia.org/wikipedia/commons/1/1a/NumPy_logo.svg" />
 
-<img align="left" alt="Visual Studio Code" width="104x" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png" />
+<img align="left" alt="Visual Studio Code" width="80x" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png" />
 
-<img align="left" alt="Visual Studio Code" width="200x" src="https://matplotlib.org/_static/logo2_compressed.svg" />
+<img align="left" alt="Visual Studio Code" width="130x" src="https://matplotlib.org/_static/logo2_compressed.svg" />
 
-<img align="left" alt="Visual Studio Code" width="144x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" />
+<img align="left" alt="Visual Studio Code" width="100x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" />
 
-<img align="left" alt="Visual Studio Code" width="44x" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
+<img align="left" alt="Visual Studio Code" width="30x" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 
-<img align="left" alt="Visual Studio Code" width="44x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Visual Studio Code" width="34x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 
 
