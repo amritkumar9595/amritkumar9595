@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/45626998/124499381-855d6980-dddb-11eb-9ac2-246630748442.gif" width="300" height="300" align ="right" />
 
-## I'm a Student, Research Scholar @ IIT-Madras!!<img src="https://icons.iconarchive.com/icons/google/noto-emoji-people-profession/1024/10206-man-student-icon.png" width="20" height="25" />
+## I'm a Student, Research Scholar @ IIT-Madras!!<img src="https://icons.iconarchive.com/icons/google/noto-emoji-people-profession/1024/10206-man-student-icon.png" width="20" height="20" />
 
 - ⚡ Intro : I am an MS student, in the dept of Electrical Sciences, IIT-M. I work @ Healthcare Technologies Innovation Centre,IIT-M, Research Park.<img src="https://upload.wikimedia.org/wikipedia/te/thumb/6/69/IIT_Madras_Logo.svg/1200px-IIT_Madras_Logo.svg.png" width="20" height="20" /> 
 - 🔭 I’m currently working on Deep learning based algorithms to speed-up MRI imaging<img src="https://cdn.iconscout.com/icon/premium/png-512-thumb/mri-13-1127700.png" width="30" height="30" />
