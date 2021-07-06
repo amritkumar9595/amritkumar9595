@@ -60,7 +60,11 @@
 
 <img align="left" alt="Visual Studio Code" width="104x" src="https://nlaongtup.github.io/post/scipy-lammps/featured.png" />
 
+<img align="left" alt="Visual Studio Code" width="200x" src="https://matplotlib.org/_static/logo2_compressed.svg" />
 
+<img align="left" alt="Visual Studio Code" width="144x" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" />
+
+<img align="left" alt="Visual Studio Code" width="44x" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 
 <img align="left" alt="Visual Studio Code" width="44x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
