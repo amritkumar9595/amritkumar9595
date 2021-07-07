@@ -64,7 +64,7 @@
 
 <img align="left" alt="Visual Studio Code" width="30x" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" />
 
-<img align="left" alt="Visual Studio Code" width="34x" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
+<img align="left" alt="Visual Studio Code" width="64x" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 <img align="left" alt="Visual Studio Code" width="34x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
