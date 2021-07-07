@@ -13,7 +13,7 @@
 <!-- - 💬 Ask me about ... -->
 <!-- - 📫 How to reach me: ... -->
 <!-- - 😄 Pronouns: ... -->
-- 🏆 Fun fact: I am a cinephile. We can discuss Sherlock, Sheldon Cooper, Starwars and Self-supervised learning all @ same time 😄
+- 📺 Fun fact: I am a cinephile 📽️. We can discuss Sherlock, Sheldon Cooper, Starwars and Self-supervised learning all @ same time 😄
  
 
 <!-- ![giphy](https://user-images.githubusercontent.com/45626998/124499381-855d6980-dddb-11eb-9ac2-246630748442.gif) -->
