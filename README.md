@@ -52,7 +52,7 @@
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" />
 
-<img align="left" alt="Visual Studio Code" width="80x" src="https://seeklogo.com/images/1/3d-slicer-horizontal-logo-BD68C07636-seeklogo.com.jpg" />
+<img align="left" alt="Visual Studio Code" width="120x" src="https://seeklogo.com/images/1/3d-slicer-horizontal-logo-BD68C07636-seeklogo.com.jpg" />
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
 
