@@ -26,8 +26,8 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/sortttlhfcsn7wspcv1u956gk) -->
 
 <br>
-<br>
-<br>
+<!-- <br>
+<br> -->
 
 ### Always happy to connect: :smiley:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="44px" src="images/linkedin.svg" />][linkedin]
