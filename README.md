@@ -41,7 +41,7 @@
 <br />
 <br />
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 <br />
 
 <img align="left" alt="codeSTACKr | LinkedIn" width="34px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
@@ -69,7 +69,7 @@
 <img align="left" alt="Visual Studio Code" width="64x" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" />
 
 <img align="left" alt="Visual Studio Code" width="34x" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-
+ -->
 
 
 
